@@ -38,7 +38,7 @@ target_compile_options(gsl_tests_config INTERFACE
         -Woverloaded-virtual
         -Wpedantic
         -Wshadow
-        -Wsign-conversion
+#        -Wsign-conversion
     >
 )
 
